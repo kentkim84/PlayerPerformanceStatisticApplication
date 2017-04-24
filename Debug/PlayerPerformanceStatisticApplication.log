@@ -1,0 +1,99 @@
+﻿  app_2.c
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(21): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(7): warning C4101: 'position': unreferenced local variable
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(229): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(246): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(271): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(273): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(275): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(277): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(279): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(281): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(283): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(286): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(288): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(290): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(499): warning C4101: 'positoin_title': unreferenced local variable
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_2.c(630): warning C4101: 'temp': unreferenced local variable
+  app_1.c
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(49): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(58): warning C4013: 'putch' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(103): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(39): warning C4101: 'length': unreferenced local variable
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(149): warning C4013: 'addEnd' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(155): warning C4013: 'display' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(162): warning C4013: 'search' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(177): warning C4013: 'update' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(185): warning C4013: 'removePosition' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(191): warning C4013: 'statisticCriterias' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(192): warning C4013: 'displayStatistics' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(235): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(203): warning C4101: 'positoin_title': unreferenced local variable
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(340): warning C4013: 'selectionSort' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(341): warning C4013: 'displaySortedList' undefined; assuming extern returning int
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\app_1.c(352): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Runner.c
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(33): warning C4098: 'main': 'void' function returning a value
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(46): warning C4098: 'main': 'void' function returning a value
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(59): warning C4098: 'main': 'void' function returning a value
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(53): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(117): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\documents\workspace\c\playerperformancestatisticapplication\playerperformancestatisticapplication\runner.c(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  PlayerPerformanceStatisticApplication.vcxproj -> C:\Users\kentkim84\Documents\Workspace\C\PlayerPerformanceStatisticApplication\Debug\PlayerPerformanceStatisticApplication.exe
+  PlayerPerformanceStatisticApplication.vcxproj -> C:\Users\kentkim84\Documents\Workspace\C\PlayerPerformanceStatisticApplication\Debug\PlayerPerformanceStatisticApplication.pdb (Full PDB)

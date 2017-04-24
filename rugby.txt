@@ -1,0 +1,10 @@
+irfu001 John Smith 23 185.5 87.8 Galway john.smith@irfu.com 1 5 10
+irfu002 Khal Ben 25 190.0 95.9 Dublin khal.ben@irfu.com 2 7 20
+irfu003 Paul Terry 22 200.1 105.9 Cork paul.terry@irfu.com 1 10 23
+irfu004 Paddy Talgh 31 170.3 65.5 Mayo paddy.talgh@irfu.com 7 1 0
+irfu005 Marry Talgh 20 178.3 75.5 Dublin Marry.talgh@irfu.com 6 4 15
+irfu006 John Mini 32 181.3 85.5 Galway John.mini@irfu.com 5 7 8
+irfu007 Ralph Gin 35 191.3 94.5 Galway ralph.gin@irfu.com 3  7 13
+irfu008 Leona Heidern 23 181.3 74.5 Galway leona.heidern@irfu.com 4 3 23
+irfu009 Athena Asamia 18 164.3 48.5 Galway athena.asamia@irfu.com 4 7 18
+irfu010 Sia Pam 19 174.3 62.5 Galway sia.pam@irfu.com 3 3 8
